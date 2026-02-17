@@ -1,4 +1,4 @@
-<table>
+<table width="100%">
 <tr>
 <td>
 
@@ -31,7 +31,7 @@ Building reliable systems and automating everything in between.
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%">
 
