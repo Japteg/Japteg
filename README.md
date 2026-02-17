@@ -4,11 +4,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:24283b&height=120&section=header&text=Hey%2C%20I'm%20Japteg%20%F0%9F%91%8B&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=32" width="100%" />
+# Hey, I'm Japteg 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1500&color=7aa2f7&center=true&vCenter=true&random=false&width=480&lines=Building+reliable+systems;Automating+everything+in+between;Backend+%C2%B7+DevOps+%C2%B7+Cloud" alt="Typing SVG" />
+**Software Engineer · Turning ideas into code**
 
-<br/>
+Building reliable systems and automating everything in between.
+
+*Backend · DevOps · Cloud*
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/japtegsingh26/)
@@ -35,16 +38,13 @@
 ### 👨‍💻 About Me
 
 - 🔧 **Backend & infra** — APIs, services, cloud & CI/CD
-- 🐍 **Python** first; right tool for the job otherwise
-- ☁️ **Daily stack** — AWS, Docker, Kubernetes, Terraform
+- ☁️ **Daily stack** — Python, AWS, Docker, Kubernetes, Terraform
 - 📫 **Say hi** — [LinkedIn](https://www.linkedin.com/in/japtegsingh26/)
 
 </td>
 <td width="50%">
 
 ### ⚙️ Quick facts
-
-> *"First make it work, then make it right, then make it fast."*
 
 - Prefer terminals over GUIs
 - Automate the boring stuff
@@ -80,8 +80,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Japteg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Japteg&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://img.shields.io/github/followers/Japteg?style=for-the-badge&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Japteg?style=for-the-badge&label=Stars" alt="Stars"/>
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Japteg&layout=compact&hide_border=true&cache_seconds=21600" height="165" alt="Top languages"/>
 
 <br/>
 <br/>
