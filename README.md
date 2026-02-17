@@ -38,7 +38,7 @@ Building reliable systems and automating everything in between.
 ### 👨‍💻 About Me
 
 - 🔧 **Backend & infra** — APIs, services, cloud & CI/CD
-- ☁️ **Daily stack** — Python, AWS, Docker, Kubernetes, Terraform
+- ☁️ **Daily stack** — Python, Go, AWS, Docker, Kubernetes
 - 📫 **Say hi** — [LinkedIn](https://www.linkedin.com/in/japtegsingh26/)
 
 </td>
@@ -61,7 +61,11 @@ Building reliable systems and automating everything in between.
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
